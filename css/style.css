@@ -951,6 +951,11 @@ footer p a span {
     .section-white {
         padding: 8em 0;
     }
+    .logotitle {
+        margin-left: 15px;
+        color: blue;
+        font-size: 12px;
+    }
 
 }
 
@@ -963,4 +968,5 @@ footer p a span {
     .logotitle {
         margin-left: 15px;
         color: blue;
+        font-size: 12px;
     }
